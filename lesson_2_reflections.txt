@@ -2,3 +2,10 @@ What happens when you initialize a repository? Why do you need to do it?
 
 Git creates the .git directory which contains metadata useful for Git to run and begins tracking every file in the directory.
 
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+Staging area is different from the working directory and the repository in that it contains only those files that the user 
+chose to include in the next commit.
+
+
