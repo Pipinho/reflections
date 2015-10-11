@@ -1,0 +1,4 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+Git creates the .git directory which contains metadata useful for Git to run and begins tracking every file in the directory.
+
